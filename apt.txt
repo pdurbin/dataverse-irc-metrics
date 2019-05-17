@@ -1,6 +1,1 @@
-r-base-core
-r-cran-dplyr
-r-cran-ggplot2
-r-cran-readr
-r-cran-lubridate
 curl
