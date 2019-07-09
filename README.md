@@ -7,3 +7,5 @@ http://chat.dataverse.org is a way for the Dataverse community to communicate in
 This repo contains a Jupyter Notebook to analyze the chat logs. It can be launched using the "launch binder" button.
 
 It was used in Philip Durbin's [Jupyter Notebooks and crazy ideas for Dataverse](https://scholar.harvard.edu/pdurbin/blog/2019/jupyter-notebooks-and-crazy-ideas-for-dataverse) talk for the [2019 Dataverse Community Meeting](https://dataverse.org/events).
+
+python3 -m venv venv
